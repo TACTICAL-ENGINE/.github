@@ -10,6 +10,7 @@ This is the **official** GitHub organization of [TACTICAL ENGINE](https://discor
 * Parallax Corrected Cubemaps
 * PBR Shaders
 * Sentry integration
+* And Much MORE!
 
 # На русском
 Это **официальный** GitHub организации [TACTICAL ENGINE](https://discord.gg/R7G3ECwmVe) (ветка Source Engine), которая стремится быть самой реалистичной (и самой тактической) веткой Source Engine. Игры, построенные на TACTICAL ENGINE - TF2:CE, P:CE, INFINITY SOURCE. Вклад всегда приветствуется!

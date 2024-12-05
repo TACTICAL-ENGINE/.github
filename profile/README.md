@@ -3,7 +3,7 @@ This is the **official** GitHub organization of [TACTICAL ENGINE](https://discor
 
 ## Features!
 * CSM
-* Deferred Lighting
+* ~~Deferred Lighting~~
 * RTT Lighting
 * Linux Ports of VBSP, VVIS, and VRAD
 * First person ragdolls
@@ -17,7 +17,7 @@ This is the **official** GitHub organization of [TACTICAL ENGINE](https://discor
 
 ## Особенности!
 * CSM
-* Отложенное освещение
+* ~~Отложенное освещение~~
 * RTT Lighting
 * Linux-порты VBSP, VVIS и VRAD
 * Рэгдоллы от первого лица
